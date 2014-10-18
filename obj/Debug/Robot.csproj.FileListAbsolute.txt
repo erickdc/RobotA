@@ -1,0 +1,19 @@
+c:\users\erick\documents\visual studio 2013\Projects\Robot\Robot\bin\Debug\Robot.exe.config
+c:\users\erick\documents\visual studio 2013\Projects\Robot\Robot\bin\Debug\Robot.exe
+c:\users\erick\documents\visual studio 2013\Projects\Robot\Robot\bin\Debug\Robot.pdb
+c:\users\erick\documents\visual studio 2013\Projects\Robot\Robot\obj\Debug\Robot.csprojResolveAssemblyReference.cache
+c:\users\erick\documents\visual studio 2013\Projects\Robot\Robot\obj\Debug\Robot.Properties.Resources.resources
+c:\users\erick\documents\visual studio 2013\Projects\Robot\Robot\obj\Debug\Robot.csproj.GenerateResource.Cache
+c:\users\erick\documents\visual studio 2013\Projects\Robot\Robot\obj\Debug\Robot.exe
+c:\users\erick\documents\visual studio 2013\Projects\Robot\Robot\obj\Debug\Robot.pdb
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\Robot\Robot\obj\Debug\Robot.Menu.resources
+C:\Users\Erick\Documents\Visual Studio 2013\Projects\Robot\Robot\obj\Debug\Robot.Juego.resources
+C:\Users\Erick\Documents\GitHub\Robot_Nerv\Robot\obj\Debug\Robot.Juego.resources
+C:\Users\Erick\Documents\GitHub\Robot_Nerv\Robot\obj\Debug\Robot.Menu.resources
+C:\Users\Erick\Documents\GitHub\Robot_Nerv\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Users\Erick\Documents\GitHub\Robot_Nerv\Robot\obj\Debug\Robot.csproj.GenerateResource.Cache
+C:\Users\Erick\Documents\GitHub\Robot_Nerv\Robot\bin\Debug\Robot.exe.config
+C:\Users\Erick\Documents\GitHub\Robot_Nerv\Robot\bin\Debug\Robot.exe
+C:\Users\Erick\Documents\GitHub\Robot_Nerv\Robot\bin\Debug\Robot.pdb
+C:\Users\Erick\Documents\GitHub\Robot_Nerv\Robot\obj\Debug\Robot.exe
+C:\Users\Erick\Documents\GitHub\Robot_Nerv\Robot\obj\Debug\Robot.pdb
